@@ -8,6 +8,6 @@
 </head>
 <body>
 <a href="index">index</a>
-<a href="index2">index</a>
+<a href="index2">index2</a>
 </body>
 </html>
